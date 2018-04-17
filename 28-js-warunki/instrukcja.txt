@@ -1,0 +1,11 @@
+W pliku html stwórz podstawow¹ strukturê html5, a nastêpnie stwórz folder "js" a w nim plik "main.js".
+
+PóŸniej zdeklaruj zmienn¹ o dowolnej nazwie. Przypisz do niej liczbê 12.
+
+Nastêpnie stórz warunek (if), który bêdzie sprawdza³, czy liczba jest wiêksza od 10.
+
+Jeœli warunek zostanie spe³niony, wyœwietl w konsoli "Podana liczba jest wiêksza od 10".
+
+W przeciwnym razie (else) powinien pojawiæ siê string "Podana liczba nie jest wiêksza od 10".
+
+Plik wgraj do repozytorium zdalnego i podeœlij link do sprawdzenia.
