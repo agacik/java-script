@@ -1,0 +1,5 @@
+Stwórz plik main.js.
+
+Napisz kod, który wyœwietla w konsoli napis "Uwielbiam JavaScript!".
+
+Dodaj plik do repozytorium zdalnego i podeœlij link do sprawdzenia.
