@@ -1,0 +1,7 @@
+Stwórz plik main.js.
+
+Zdeklaruj trzy zmienne o dowolnych nazwach - do ka¿dej z nich przypisz dowoln¹ liczbê.
+
+Stwórz tablicê, której elementami bêd¹ wczeœniej zdeklarowane zmienne.
+
+Dodaj plik do repozytorium zdalnego i podeœlij link do sprawdzenia.
