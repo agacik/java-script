@@ -1,0 +1,7 @@
+Stwórz plik main.js, a nastêpnie zdeklaruj w nim dwie zmienne:
+
+1. Zmienna o nazwie "name" - przypisz do niej swoje imiê.
+
+2. Zmienna o nazwie "surname" - do niej przypisz swoje nazwisko.
+
+Plik wgraj do repozytorium zdalnego i podeœlij link do sprawdzenia.
