@@ -1,0 +1,5 @@
+Stwórz plik main.js.
+
+Stwórz tablicê o dowolnej nazwie, a w niej umieœæ dowoln¹ iloœæ liczb.
+
+Dodaj plik do repozytorium zdalnego i podeœlij link do sprawdzenia.
