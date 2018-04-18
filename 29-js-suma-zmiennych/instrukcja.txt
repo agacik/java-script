@@ -1,0 +1,15 @@
+W pliku html stwórz podstawow¹ strukturê html5, a nastêpnie stwórz folder "js" a w nim plik "main.js".
+
+W pliku main.js zdeklaruj dwie zmienne o nazwie:
+
+1. "liczbaPierwsza" 
+2. "liczbaDruga"
+
+Przypisz do nich dowolne liczby.
+
+Nastêpnie napisz funkcjê, która przyjmuje dwa parametry - stworzone przez Ciebie zmienne. 
+Ma ona zwracaæ (return) sumê tych parametrów.
+
+PodpowiedŸ: Wewn¹trz funkcji zdeklaruj zmienn¹ (np. "suma"), która bêdzie sum¹ dwóch przekazywanych parametrów. Nastêpnie zwróæ t¹ zmienn¹.
+
+Plik wgraj do repozytorium zdalnego i podeœlij link do sprawdzenia.
