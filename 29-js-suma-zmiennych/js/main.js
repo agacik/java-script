@@ -1,10 +1,13 @@
 var liczbaPierwsza = 10;
 var liczbaDruga = 3;
 
-
-function sumaZmiennych() {
+function sumaZmiennych(liczbaPierwsza, liczbaDruga) {
     var suma = liczbaPierwsza + liczbaDruga;
     return suma;
 }
 
-alert(sumaZmiennych());
+alert(sumaZmiennych(liczbaPierwsza, liczbaDruga));
+
+//lub
+
+alert(sumaZmiennych(10, 3));
